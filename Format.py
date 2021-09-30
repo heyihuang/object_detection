@@ -23,6 +23,7 @@ from xml.etree.ElementTree import dump
                                     "height" : <string>
                                     "depth" : <string>
                                 }
+
                     "objects" :
                                 {
                                     "num_obj" : <int>
@@ -38,6 +39,8 @@ from xml.etree.ElementTree import dump
                                                                 }
                                                 }
                                     ...
+
+
                                 }
                 }
 """
